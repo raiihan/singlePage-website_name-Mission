@@ -1,5 +1,46 @@
 body{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Inter', sans-serif;
     margin: 0;
     padding: 0;
+}
+.mission{
+    width: 80%;
+    margin: auto;
+}
+.top-part{
+    display: flex;
+}
+.top-left{
+    margin-top: 100px;
+}
+h1{
+    font-size: 50px;
+
+}
+.top-left-heading{
+    border-left: 5px solid;
+    border-color: salmon;
+    line-height: 16px;
+    padding-left: 20px;
+
+}
+.color-salmon{
+    color: lightsalmon;
+}
+.top-left-bottom p{
+        margin: 30px 0px;
+}
+.link-btn{
+    text-decoration: none;
+    border-radius: 4px;
+    padding: 10px 30px;
+    background-color: tomato;
+    color: white;
+    margin-top: 50px;
+}
+.top-right{
+    margin-left: 23%;
+}
+.right-img img{
+    width: 80%;
 }
