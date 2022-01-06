@@ -1,5 +1,5 @@
 body{
-    font-family: 'Inter', sans-serif;
+    font-family: 'Yeseva One', sans-serif;
     margin: 0;
     padding: 0;
 }
@@ -7,25 +7,24 @@ body{
     width: 80%;
     margin: auto;
 }
-.top-part{
+.flex-container{
     display: flex;
+    margin-bottom: 90px;
 }
 .top-left{
     margin-top: 100px;
 }
 h1{
-    font-size: 50px;
+    font-size: 42px;
 
 }
 .top-left-heading{
-    border-left: 5px solid;
-    border-color: salmon;
-    line-height: 16px;
+    border-left: 4px solid salmon;
     padding-left: 20px;
 
 }
 .color-salmon{
-    color: lightsalmon;
+    color: orange;
 }
 .top-left-bottom p{
         margin: 30px 0px;
@@ -43,4 +42,102 @@ h1{
 }
 .right-img img{
     width: 80%;
+}
+
+.my-mission{}
+.mission-heading{
+    text-align: center;
+}
+.mission-details{
+    margin-left: 80px;
+}
+.mission-part{
+    border-radius: 10px;
+    margin-left: 50px;
+    width: 250px;
+}
+.color-one{
+    background-color: lightsteelblue;
+}
+.color-two{
+    background-color: lavenderblush;
+}
+.color-three{
+    background-color: #e09cb3;
+}
+
+.mission-img img{
+    width: 30%;
+}
+.mission-bottom{
+    padding: 0 20px;
+}
+.mission-para{
+    font-size: 12px;
+    padding-bottom: 20px;
+
+}
+.develop{
+
+}
+.develop-img img{
+    width: 400px;
+}
+.develop-details{
+    margin-left: 80px;
+    margin-top: 25px;
+}
+.develop-head{
+line-height: 16px;
+}
+.develop-para{
+    font-size: 14px;
+    margin-bottom: 30px;
+}
+
+.community-details{
+    margin-right: 80px;
+}
+
+.meet-team{
+    
+}
+
+.team-left{
+    width: 450px;
+    margin-left: 60px;
+    margin-top: 30px;
+}
+.team-photo{
+    margin-bottom: 0;
+}
+
+.team-member{
+    background-color: linen;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 10px;
+}
+.team-designation{
+    line-height: 0;
+    margin-top: 60px;
+}
+.team-member img{
+    width: 300px
+}
+
+
+footer{
+    background-color: #0b0d17;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+footer h3{
+    color: white;
+    font-style: italic;
+}
+footer p{
+    color: whitesmoke;
+    font-size: 12px;
 }
