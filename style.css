@@ -44,7 +44,6 @@ h1{
     width: 80%;
 }
 
-.my-mission{}
 .mission-heading{
     text-align: center;
 }
@@ -77,9 +76,7 @@ h1{
     padding-bottom: 20px;
 
 }
-.develop{
 
-}
 .develop-img img{
     width: 400px;
 }
@@ -99,9 +96,7 @@ line-height: 16px;
     margin-right: 80px;
 }
 
-.meet-team{
-    
-}
+
 
 .team-left{
     width: 450px;
